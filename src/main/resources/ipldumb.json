@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Mumbai, Maharashtra",
+        "coach": "Mahela Jaywardene",
+        "home": "Wankhede Stadium, Mumbai",
+        "team": "Mumbai Indians",
+        "label": "MI",
+        "players":[
+            {
+               "player": "Rohit Sharma (R)",
+               "price": 150000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Quinton de Kock (R)",
+               "price": 28000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Hardik Pandya (R)",
+               "price": 110000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Jasprit Bumrah (R)",
+               "price": 70000000,
+               "role": "Bowler"
+             }
+           ]
+       
+    },
+   
+    {
+        "city": "Chennai, Tamil Nadu",
+        "coach": "Stephen Fleming",
+        "home": "M.A. Chidambaram Stadium, Chennai",
+        "team": "Chennai Super Kings",
+        "label": "CSK",
+        "players": [
+            {
+                "player": "Ambati Rayadu (R)",
+                "price": 22000000.0,
+                "role": "Batsman"
+            },
+            {
+                "player": "MS Dhoni (R)",
+                "price": 150000000.0,
+                "role": "Wicket Keeper"
+            },
+            {
+                "player": "Dwayne Bravo (R)",
+                "price": 64000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Harbhajan Singh (R)",
+                "price": 20000000.0,
+                "role": "Bowler"
+            }
+        ]
+    }
+]
