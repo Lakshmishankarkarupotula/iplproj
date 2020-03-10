@@ -26,6 +26,8 @@ public class IplprojApplication {
 	@Bean
 	public CommandLineRunner runner() {
 		return (args) -> {
+			
+			System.out.println("APPLICATION STARTED");
 		
 			
 //			List<Team> teams = teamRepository.findAll();
@@ -109,13 +111,13 @@ public class IplprojApplication {
 //			
 //			System.out.println("7------------------MaxPlayerByRoleDto");
 //			
-			
+//			
 //			List<PlayerRolewiseByTeamDto> rollWise = teamDAOimpl.getPlayerRolewiseByTeam("CSK", "Batsman");
 //			
 //			for (PlayerRolewiseByTeamDto result : rollWise) {
 //				System.out.println("for " + result.getLabel() +" " +result.getPlayerRole() + " is " +result.getPlayerName() +" " + result.getPlayerPrice());
 //			}
-			
+//			
 //			System.out.println("8------------------PlayerRolewiseByTeamDto");
 //			
 //			
@@ -126,8 +128,8 @@ public class IplprojApplication {
 //			}
 //			
 //			System.out.println("9------------------TotalSpendingTeamwiseDto");
-			
-			
+//			
+//			
 			
 		};
 	}
